@@ -160,7 +160,7 @@ aside h3{
 ul{
     position: inside;
     font-family: var(--fonte-texto);
-    font-size: 1.1em;
+    font-size: 1em;
     columns: 2;
     list-style-position: inside;
     list-style-type: none;
