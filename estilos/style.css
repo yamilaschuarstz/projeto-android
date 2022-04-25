@@ -33,7 +33,7 @@ body{
     background-color: var(--cor2);
 }
 header{
-    min-height: 200px;
+    min-height: 150px;
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor3));
     text-align: center;
 }
@@ -82,7 +82,7 @@ main{
     background-color: #f2fffb;
     max-width: 900px;
     min-width: 300px;
-    padding: 20px;
+    padding: 15px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
     box-shadow: 0px 0px 7px #00000056;;
@@ -136,7 +136,7 @@ main img.pequena{
 }
 .video{
     background-color: var(--cor1);
-    margin: 0px -30px 0px -30px;
+    margin: 0px -15px 0px -15px;
     padding: 20px;
 }
 iframe{
@@ -145,8 +145,8 @@ iframe{
 aside{
     background-color: var(--cor1);
     border-radius: 10px;
-    padding: 20px;
-    margin-top: 40px;
+    padding: 10px;
+    margin: 40px 0px 0px 0px;
     padding-bottom: 30px;
 }
 aside h3{
@@ -156,7 +156,7 @@ aside h3{
     background-color: var(--cor4);
     border-radius: 10px 10px 0px 0px;
     padding: 5px;
-    margin: -20px -20px -15px -20px;
+    margin: -20px -10px -15px -10px;
     text-indent: 10px;
 }
 ul{
@@ -166,7 +166,7 @@ ul{
     columns: 2;
     list-style-position: inside;
     list-style-type: none;
-    text-indent: 40px;
+    text-indent: 10px;
     padding-top: 30px;
 }
 aside p{
