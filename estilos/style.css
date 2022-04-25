@@ -41,6 +41,7 @@ header > h1{
     color: white;
     font-family: var(--fonte-titulo);
     font-weight: 600;
+    margin: auto;
     text-shadow: 2px 2px 2px #00000056;
     font-size: 4em;
     padding: 40px 20px 20px 20px;
